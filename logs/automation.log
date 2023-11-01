@@ -264,3 +264,11 @@
 20:07:30.914 [main] INFO  api.test.UserTest - ***************** User Updated *********************
 20:07:32.069 [main] INFO  api.test.UserTest - ***************** Deleting User *********************
 20:07:33.196 [main] INFO  api.test.UserTest - ***************** User Deleted *********************
+20:15:24.877 [main] INFO  api.test.UserTest - ***************** Create User *********************
+20:15:27.511 [main] INFO  api.test.UserTest - ***************** User is Created *********************
+20:15:27.514 [main] INFO  api.test.UserTest - ***************** Reading User info *********************
+20:15:28.701 [main] INFO  api.test.UserTest - ***************** User info is displaying  *********************
+20:15:28.703 [main] INFO  api.test.UserTest - ***************** Updating User *********************
+20:15:29.858 [main] INFO  api.test.UserTest - ***************** User Updated *********************
+20:15:31.022 [main] INFO  api.test.UserTest - ***************** Deleting User *********************
+20:15:32.187 [main] INFO  api.test.UserTest - ***************** User Deleted *********************
